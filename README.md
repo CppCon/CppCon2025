@@ -102,10 +102,10 @@ and code from [CppCon 2025](https://cppcon.org).
 
 ## Lightning Talks
 
-- [Can `set_value` Actually Throw?](Lightning Talks/Can_set_value_Actually_Throw.pdf) by Robert Leahy
-- [The Type-Safe Builder Pattern](Lightning Talks/The_Type_Safe_Builder_Design_Pattern.pdf) by John Stracke
-- [Navigating Code Reviews as a Code Author](Lightning Talks/Navigating_Code_Reviews.pdf) by Ben Deane
-- [Bool - Implicitly Dangerous](Lightning Talks/Bool_Implicitly_Dangerous.pdf) by Jeff Garland
+- [Can `set_value` Actually Throw?](Lightning%20Talks/Can_set_value_Actually_Throw.pdf) by Robert Leahy
+- [The Type-Safe Builder Pattern](Lightning%20Talks/The_Type_Safe_Builder_Design_Pattern.pdf) by John Stracke
+- [Navigating Code Reviews as a Code Author](Lightning%20Talks/Navigating_Code_Reviews.pdf) by Ben Deane
+- [Bool - Implicitly Dangerous](Lightning%20Talks/Bool_Implicitly_Dangerous.pdf) by Jeff Garland
 
 ## Posters
 
@@ -115,6 +115,6 @@ and code from [CppCon 2025](https://cppcon.org).
 - [CTwik: General Purpose Hot Patcher For C++](Posters/CTwik_General_Purpose_Hot_Patcher_For_Cpp.pdf) by Mohit
 - [Performance effects of future-proofing submdspan_mapping](Posters/Performance_effects_of_future-proofing_submdspan_mapping.pdf) by Mark Hoemmen
 - [The Lens of Localized Contracts in Examples](Posters/The_Lens_of_Localized_Contracts_in_Examples.pdf) by Daniel Mall
-- [MOCKINGBIRD - C++ Mocking Framework](Posters/MOCKINGBIRD - Cpp_Mocking_Framework.pdf) by Mouaz Chamieh
+- [MOCKINGBIRD - C++ Mocking Framework](Posters/MOCKINGBIRD_Cpp_Mocking_Framework.pdf) by Mouaz Chamieh
 - [Taskflow: A General-purpose Task-parallel Programming System using Modern C++](Posters/Taskflow_A_General-purpose_Task-parallel_Programming_System_using_Modern_Cpp.png) by Tsung-Wei Huang
 
